@@ -1,4 +1,4 @@
-# castfastreceiver
+# Cast Fast Web Receiver
 Google Cast Receiver for my applications, although it is a Custom Web Receiver, it is based on the Google sample.
 This project is not licensed at all.
 The code is not private, at least I have not privatized it.
