@@ -3,7 +3,7 @@ const playerManager = context.getPlayerManager();
 
 // Update style using javascript
 let playerElement = document.getElementsByTagName("cast-media-player")[0];
-playerElement.style.setProperty('--splash-image', 'url('res/logo.png')');
+playerElement.style.setProperty('--splash-image', 'url('https://en.wikipedia.org/wiki/File:Chromecast_cast_button_icon.svg#/media/File:Chromecast_cast_button_icon.svg')');
 
 //Media Sample API Values
 const SAMPLE_URL = "https://storage.googleapis.com/cpe-sample-media/content.json";
