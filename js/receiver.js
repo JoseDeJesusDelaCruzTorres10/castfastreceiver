@@ -1,6 +1,10 @@
 const context = cast.framework.CastReceiverContext.getInstance();
 const playerManager = context.getPlayerManager();
 
+// Update style using javascript
+let playerElement = document.getElementsByTagName("cast-media-player")[0];
+playerElement.style.setProperty('--splash-image', 'url('res/logo.png')');
+
 //Media Sample API Values
 const SAMPLE_URL = "https://storage.googleapis.com/cpe-sample-media/content.json";
 const StreamType = {
