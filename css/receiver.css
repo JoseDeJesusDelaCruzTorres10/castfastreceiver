@@ -4,6 +4,6 @@ body {
 cast-media-player {
   --theme-hue: 100;
   --progress-color: rgb(0, 255, 0);
-  --splash-image: url('res/media.png');
+  --splash-image: url('res/logo.png');
   --splash-size: cover;
 }
